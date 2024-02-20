@@ -50,7 +50,9 @@ plt.xlabel('y')
 plt.plot(x_train,lr.predict(x_train),color='red')
 ```
 ## Output:
-![simple linear regression model for predicting the marks scored](sam.png)
+![ML EX 02_page-0001](https://github.com/BalaSathiesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128462891/d4920317-21e9-4add-b1b0-12ea0cb6fa1a)
+![ML EX 02_page-0002](https://github.com/BalaSathiesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128462891/0e145448-aaeb-44d9-8a2a-c15731627cd0)
+![ML EX 02_page-0003](https://github.com/BalaSathiesh/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/128462891/527aef22-fc59-4746-b57f-8e8baa72552d)
 
 
 ## Result:
